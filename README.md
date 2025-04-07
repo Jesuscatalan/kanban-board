@@ -35,13 +35,13 @@ A Kanban board application with JWT (JSON Web Tokens) authentication. Users can 
 ## Installation  
 
 ### 1. Download Starter Code  
-Download and unzip the [starter code](your-repo-link-here).  
-*(Ensure you create your own repository with the starter code.)*  
+Download and unzip <https://github.com/Jesuscatalan/kanban-board>
 
 ### 2. Set Up the Project  
 Clone your repository:  
-```bash
-git clone <your-repository-url>
+
+git clone <https://github.com/Jesuscatalan/kanban-board>
+
 cd <project-directory>
 
 ## 3. Install Dependencies
@@ -84,7 +84,7 @@ Backend: Node.js, Express.js
 
 Authentication: JWT
 
-Database: [Specify if applicable, e.g., MongoDB, PostgreSQL]
+Database: [PostgreSQL]
 
 ## Contributing
 Contributions are welcome! Fork the repo, submit issues, or open pull requests.
